@@ -1,4 +1,3 @@
-```
 # PwC Virtual Internship Dashboard Project
 
 ## Background
@@ -26,4 +25,3 @@ Special thanks to the Forage platform for facilitating this valuable learning ex
 ---
 
 Thank you for your attention! Feel free to connect with me and reach out for any further inquiries. #PwC #Forage #DataVisualization #PowerBI #VirtualInternship #KPIs #Dashboard
-```
